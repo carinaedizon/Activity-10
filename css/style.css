@@ -1,0 +1,43 @@
+.headder{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+    font-size: 30px;
+    color: #000;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+    flex-direction: row;
+    margin: 0 -8%;
+    justify-content:space-between;
+    align-items: center;
+    padding: 35px 0;
+    width: 85px;
+    color: #000;
+    margin-left: 15%;
+}
+.a:hover:hover{
+    border-bottom: 3px solid black;
+    padding-bottom: 5px;
+}
+.a1:hover{
+    background-color: gainsboro;
+}
+.a1{
+    background-color: #ffffffbf;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    color: #000; 
+}
+.nav1{
+    border-radius: 40% black;
+}
